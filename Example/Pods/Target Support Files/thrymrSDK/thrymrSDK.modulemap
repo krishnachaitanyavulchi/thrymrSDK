@@ -1,0 +1,6 @@
+framework module thrymrSDK {
+  umbrella header "thrymrSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

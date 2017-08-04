@@ -1,0 +1,16 @@
+PODS:
+  - thrymrSDK (0.1.0)
+
+DEPENDENCIES:
+  - thrymrSDK (from `../`)
+
+EXTERNAL SOURCES:
+  thrymrSDK:
+    :path: ../
+
+SPEC CHECKSUMS:
+  thrymrSDK: ae5a500b6b81575aa0966f44c5a6f19349ad23fb
+
+PODFILE CHECKSUM: 42aa17ac6bebc1a666345f5d6010e8030bab0f03
+
+COCOAPODS: 1.3.0
