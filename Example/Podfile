@@ -1,0 +1,6 @@
+use_frameworks!
+target 'thrymrSDK_Tests' do
+  pod 'thrymrSDK', :path => '../'
+  
+  
+end
